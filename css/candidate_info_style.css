@@ -24,14 +24,14 @@ body {
 }
 
 .info{
-	font-size: 1,5vw;
+	font-size: 1.3vw;
 }
 
 .info h3{
 	text-align: right;
 	position: absolute;
 	top: 0px;
-	left: 590px;
+	left: 600px;
 	color: white;
 	
 }
@@ -70,7 +70,7 @@ body {
 	font-size: 1.3vw;
 	position: absolute;
 	top: 0px;
-	left: 720px;
+	left: 750px;
 	color: blue;
 }
 
